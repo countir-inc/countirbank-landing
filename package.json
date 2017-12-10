@@ -1,0 +1,12 @@
+{
+  "name": "countirbank-landing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "github.private:countir-inc/countirbank-landing.git",
+  "author": "shengbo.xu",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "4.0.0-alpha.6"
+  }
+}
