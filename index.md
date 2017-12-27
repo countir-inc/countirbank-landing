@@ -1,4 +1,4 @@
 ---
 layout: toppage
-title: CountirBank, Inc.
+title: CountirBank Inc.
 ---
